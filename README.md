@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Probable Octo Train...
+My Milo / Franklin training webhub using Google Docs...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--probable-octo-train--gavdberg.hlx.page/
+- Live: https://main--probable-octo-train--gavdberg.hlx.live/
 
 ## Installation
 
